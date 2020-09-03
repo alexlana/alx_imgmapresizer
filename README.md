@@ -2,7 +2,7 @@
 
 Image Map resizer for HTML <map>.
 
-Simple add on <header>:
+Simple add on &lt;header&gt;:
 
 <script src="hex_imgmapresizer.js"></script>
 
