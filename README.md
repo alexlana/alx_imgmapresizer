@@ -1,11 +1,22 @@
-# Hex Image Map Resizer
+# Image Map Resizer
 
-Image Map resizer for HTML <map>.
+It's a lightweight pure JavaScript image Map resizer for HTML `<map>`. All you need is to load and initialize the script on you website.
 
-Simple add on &lt;header&gt;:
+## How it works
 
+Simple add between `<header>` and `</header>`:
+
+```
 <script src="hex_imgmapresizer.js"></script>
+```
 
 And add at the end of your code:
-hex_imgmapresizer()
+```
+hex_imgmapresizer();
+```
 
+That's it!
+
+## If the script not work
+
+Try to create the image map on the original image size. And please open an issue! I will appreciate!
