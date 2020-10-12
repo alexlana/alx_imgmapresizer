@@ -10,9 +10,11 @@ Simple add between `<header>` and `</header>`:
 <script src="hex_imgmapresizer.js"></script>
 ```
 
-And add at the end of your code:
+And add just before `</body>` tag:
 ```
+<script>
 hex_imgmapresizer();
+</script>
 ```
 
 That's it!
